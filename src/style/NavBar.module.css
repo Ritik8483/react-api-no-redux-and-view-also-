@@ -1,0 +1,62 @@
+
+.navContainer{
+    height: 60px;
+    width: 100%;
+    background-color: blueviolet;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 70px;
+    align-items:center;
+    color: #fff;
+    gap: 30px;
+}
+.navSep{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+.addUserBtn{
+    color: #fff !important;
+    border: 1px solid #fff !important;
+    transition: all 0.3s;
+}
+.addUserBtn:hover{
+    border: 2px solid #fff !important;
+}
+.navRoute{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+.link{
+    /* color: #fff; */
+    color: aqua;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 600;
+}
+.aboutBox{
+    display: flex;
+    min-height:100vh;
+}
+.aboutText{
+    padding: 20px 70px;
+    display: flex;
+    flex-direction: column;
+}
+.dummyText{
+    font-size: large;
+    font-weight: 700;
+    color: grey;
+}
+.contactBox{
+    padding: 20px 70px;
+}
+.contact{
+    font-size: large;
+    font-weight: 700;
+    color: gray;
+}
+.homeBox{
+    padding: 30px 70px;
+}

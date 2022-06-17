@@ -1,0 +1,36 @@
+.adduserContainer{
+   min-height: 100vh;
+   padding: 30px 70px ;
+   display: flex;
+   justify-content: center;
+}
+.adduserBox{
+    height:fit-content;
+    width: 50%;
+    border-radius: 10px;
+    transition: all 0.3s;
+    box-shadow: 5px 10px 18px #888888;
+    padding: 5px;
+}
+@media(max-width:900px){
+    .adduserBox{
+        width: 350px;
+    }
+}
+@media(max-width:500px){
+    .adduserBox{
+        width: 350px !important;
+    }
+}
+.heading{
+    text-align: center;
+}
+.text_div{
+    margin-top: 20px;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0;
+}

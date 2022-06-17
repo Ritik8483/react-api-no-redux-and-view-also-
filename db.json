@@ -1,0 +1,66 @@
+{
+  "user": [
+    {
+      "id": 9,
+      "name": "Subroto Vishwas 321",
+      "username": "Dani  11111111",
+      "email": "ren@dana.io",
+      "address": {
+        "street": "Dayna Park",
+        "suite": "Suite 449",
+        "city": "Bartholomebury",
+        "zipcode": "76495-3109",
+        "geo": {
+          "lat": "24.6463",
+          "lng": "-168.8889"
+        }
+      },
+      "phone": "22222222222222222",
+      "website": "conrad.com",
+      "company": {
+        "name": "Yost and Sons",
+        "catchPhrase": "Switchable contextually-based project",
+        "bs": "aggregate real-time technologies"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Clementina DuBuque 321",
+      "username": "Thargarh",
+      "email": "Rey.325765321@karina.biz",
+      "address": {
+        "street": "Kattie Turnpike",
+        "suite": "Suite 198",
+        "city": "Lebsackbury",
+        "zipcode": "31428-2261",
+        "geo": {
+          "lat": "-38.2386",
+          "lng": "57.2232"
+        }
+      },
+      "phone": "432532",
+      "website": "324567",
+      "company": {
+        "name": "Hoeger LLC",
+        "catchPhrase": "Centralized empowering task-force",
+        "bs": "target end-to-end models"
+      }
+    },
+    {
+      "name": "Jai Krishan",
+      "username": "krishna",
+      "email": "admin@mapi-app.io",
+      "phone": "8765434567",
+      "website": "https://www.npmjs.com/package/concurrently",
+      "id": 11
+    },
+    {
+      "name": "Balwan Tomar Ji",
+      "username": "singh.Tomarshab",
+      "email": "balwan@gmail.com",
+      "phone": "454475363234",
+      "website": "https://mui.com/material-ui/material-icons/?query=dele&selected=Delete",
+      "id": 12
+    }
+  ]
+}
